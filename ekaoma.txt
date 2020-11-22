@@ -1,1 +1,3 @@
 Mites tää GIT toimii?
+
+Tää näyttää toimivan oikein hyvin.
